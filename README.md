@@ -1,3 +1,9 @@
+***Important***
+I created this fork for me to fix a bug which probably is my fault of some sort. Since I could not fix it within 8 hours
+of researching I decided to just change the plugin. I strongly advice you to use the original plugin by 2amigos.
+The rest of this readme file and composer requires are kept from the original plugin.
+
+
 Geo Search Plugin
 =================
 
@@ -13,11 +19,6 @@ Yii 2 [LeafletJs](http://leafletjs.com/) Plugin that adds support for address lo
 Leaflet with dropdown list capabilities and loading icon feedback. This Plugin works in conjunction with
 [LeafLet](https://github.com/2amigos/yii2-leaflet-extension) library for [Yii 2](https://github.com/yiisoft/yii2)
 framework.
-
-***Important***
-I created this fork for me to fix a bug which probably is my fault of some sort. Since I could not fix it within 8 hours
-of researching I decided to just change the plugin. I strongly advice you to use the original plugin by 2amigos.
-The rest of this readme file and composer requires are kept from the original plugin.
 
 Installation
 ------------
