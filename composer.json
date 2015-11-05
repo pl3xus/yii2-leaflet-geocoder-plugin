@@ -1,5 +1,5 @@
 {
-    "name": "2amigos/yii2-leaflet-geocoder-plugin",
+    "name": "pl3xus/yii2-leaflet-geocoder-plugin",
     "description": "Yii2 LeafLet Plugin to provide support for address lookup with dropdown list of results to Leaflet.",
     "keywords": [
         "2amigos",
