@@ -15,9 +15,9 @@ Leaflet with dropdown list capabilities and loading icon feedback. This Plugin w
 framework.
 
 ***Important***
-The libraries used on this plugin have been modified from
-[the original plugin source](https://github.com/perliedman/leaflet-control-geocoder). So, if you wish to modify the
-plugin, remember that you cannot update it from its original source.
+I created this fork for me to fix a bug which probably is my fault of some sort. Since I could not fix it within 8 hours
+of researching I decided to just change the plugin. I strongly advice you to use the original plugin by 2amigos.
+The rest of this readme file and composer requires are kept from the original plugin.
 
 Installation
 ------------
