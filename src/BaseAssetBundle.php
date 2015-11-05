@@ -16,13 +16,7 @@ use yii\web\AssetBundle;
  * @link http://www.2amigos.us/
  * @package dosamigos\leaflet\plugins\geocoder
  */
-class ServiceBingAsset extends BaseAssetBundle
+class BaseAssetBundle extends AssetBundle
 {
-    public $js = [
-        'js/l.control.geocoder.bing.js'
-    ];
-
-    public $depends = [
-        'dosamigos\leaflet\plugins\geocoder\GeoCoderAsset'
-    ];
+    public $sourcePath = '@vendor/pl3xus/yii2-leaflet-geocoder-plugin/src/assets';
 }

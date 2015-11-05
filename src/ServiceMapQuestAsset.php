@@ -16,10 +16,8 @@ use yii\web\AssetBundle;
  * @link http://www.2amigos.us/
  * @package dosamigos\leaflet\plugins\geocoder
  */
-class ServiceMapQuestAsset extends AssetBundle
+class ServiceMapQuestAsset extends BaseAssetBundle
 {
-    public $sourcePath = '@vendor/2amigos/yii2-leaflet-geocoder-plugin/assets';
-
     public $js = [
         'js/l.control.geocoder.mapquest.js'
     ];
